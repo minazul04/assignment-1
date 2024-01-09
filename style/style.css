@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
-*{
+
+* {
     margin: 0;
     padding: 0;
 }
+
 header {
     background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
 }
@@ -176,6 +178,7 @@ button {
 .div2 {
     display: flex;
     justify-content: space-around;
+
 }
 
 .div1 .div2 .coming {
@@ -250,24 +253,48 @@ h6 {
 .sub .letter {
     margin-bottom: 5px;
 }
-
-label{
+.color{
+color: #FFF;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+gap: 0;
+}
+label {
     font-size: 20px;
     border-radius: 50px;
 }
-.sub{
+
+.sub {
     background: rgba(255, 0, 0, 0.05);
     margin-left: 140px;
     margin-right: 140px;
 }
-section{
+
+section {
     margin-bottom: 140px;
 }
 
-.op{
+.op {
     padding-top: 200px;
     padding-bottom: 200px;
 
     background: #070211;
 }
 
+footer {
+    background: #070211;
+    display: flex;
+    padding: 120px 140px;
+}
+
+.universal {
+    display: flex;
+    disp display-content: space-around;
+}
+
+.universal .a3 {
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 380px;
+    height: 64px;
+}
