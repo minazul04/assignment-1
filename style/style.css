@@ -7,6 +7,7 @@
 
 header {
     background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    padding-top: 50px;
 }
 
 .container {
@@ -249,7 +250,13 @@ h6 {
     margin-top: 5px;
     margin-bottom: 5px;
 }
-
+.j1 .j2{
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.j3 .j4{
+    margin-left: 80px;
+}
 .sub .letter {
     margin-bottom: 5px;
 }
@@ -266,8 +273,8 @@ label {
 
 .sub {
     background: rgba(255, 0, 0, 0.05);
-    margin-left: 140px;
-    margin-right: 140px;
+    margin-left: 80px;
+    margin-right: 82px;
 }
 
 section {
