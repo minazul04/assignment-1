@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.container {
+    width: 95%;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.container-main {
+    background-image: url('../resources/Banner\ Image.png');
+    height: 600px;
+    margin-bottom: 120px;
+}
+
+.container-main .new-year p {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.container .container-main .new-year h1 {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+}
+
+.all-catagori .off .img .off-2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.all-catagori .off .img p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.all-catagori .off .img .all {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.all-catagori .off {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 120px;
+}
+
+.for {
+    width: 95%;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.for .welcome {
+    background-image: url(../resources/Vectorrr.png);
+    height: 600px;
+    margin-bottom: 120px;
+}
+
+.welcome .to .party .to-group {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    margin-left: 100px;
+
+}
+
+.welcome .to .party .poll {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    margin-left: 100px;
+}
+
+.welcome .to .party button {
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    margin-left: 100px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+.place {
+    width: 95%;
+    max-width: 1320px;
+    margin: 0 auto;
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 214px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.pan {
+    color: #F00;
+}
+
+.Hotel {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+button {
+    color: #FFF;
+    background-color: #F00;
+    border-radius: 8px;
+}
+
+
+/* pari nai eita */
+
+
+.container {
+    width: 95%;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div1 .div2 .coming {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+/* er por suru */
+
+
+
+
+.what {
+    text-align: center;
+}
+
+.foun {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+
+}
+
+.ho {
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+}
+
+.tion {
+    font-size: 72px;
+}
+
+.the {
+    margin-left: 140px;
+}
+
+h5 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.gift {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.sub .letter {
+    text-align: center;
+}
+
+h6 {
+    font-size: 48px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.sub .letter {
+    margin-bottom: 5px;
+}
+
+label{
+    font-size: 20px;
+    border-radius: 50px;
+}
+.sub{
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 140px;
+    margin-right: 140px;
+}
+section{
+    margin-bottom: 140px;
+}
+
+.op{
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+    background: #070211;
+}
+
